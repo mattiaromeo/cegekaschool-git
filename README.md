@@ -16,6 +16,7 @@ Don't hide his mistakes and accept that it's ok to revert his reverts of our com
 ## Exercise 2
 Try hiding his mistake(s)
 
+## Verification
 Your end result should look like this on the `master` branch:
 
     root
