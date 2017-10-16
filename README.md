@@ -11,10 +11,15 @@ Apparently he discovered his whoopsie too late and decided to revert our commits
 The devious bastard then merged his branch with `master` and deleted his own temporary feature branch.
 
 ## Exercise 1
-Don't hide his mistakes and accept that it's ok to revert his reverts of our commits.
+   git checkout fugufusion
+   git merge master
+
+Make sure your fugu.txt recipe contains the recipe that actually doesn't kill people.
+
+Fix the mistakes the ratings guy did. Don't hide his mistakes and accept that it's ok to revert his reverts of our commits.
 
 ## Exercise 2
-Try hiding his mistake(s)
+Same as exercise 1, except try hiding his mistake(s).
 
 ## Verification
 Your end result should look like this on the `master` branch:
