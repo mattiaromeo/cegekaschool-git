@@ -11,7 +11,9 @@ Apparently he discovered his whoopsie too late and decided to revert our commits
 The devious bastard then merged his branch with `master` and deleted his own temporary feature branch.
 
 ## Exercise 1
+
    git checkout fugufusion
+   
    git merge master
 
 Make sure your fugu.txt recipe contains the recipe that actually doesn't kill people.
